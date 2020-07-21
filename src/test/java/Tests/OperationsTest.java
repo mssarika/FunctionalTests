@@ -16,7 +16,7 @@ public class OperationsTest {
 		Assert.assertEquals("Test 1 failed", "12", obj.addValues("4", "8"));
 	}
 	
-	@Test
+/*	@Test
 	public void test2()
 	{
 		Assert.assertEquals("Test 2 failed", "22", obj.addValues("10", "12"));
@@ -26,7 +26,7 @@ public class OperationsTest {
 	public void test3()
 	{
 		Assert.assertEquals("Test 3 failed", "testing", obj.addValues("test","ing"));
-	}
+	}*/
 	
 	@Test
 	public void test4()
